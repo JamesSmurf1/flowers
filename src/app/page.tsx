@@ -21,7 +21,7 @@ function App() {
         <p className="text-gray-700 mt-4 text-base text-[35px]">
           — from James to Trisha.
         </p>
-        <p className="text-gray-700 mt-4 text-base text-[10px]">
+        <p className="text-gray-700 mt-4 text-base text-[22px]">
           - It's gonna be a real flower next time.
         </p>
       </div>
