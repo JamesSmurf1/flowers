@@ -13,7 +13,7 @@ function App() {
         <p className="font-romantic text-blue-800 mb-2 
           text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-6xl
           ">
-          You deserved it, Thanks for being amazing.
+          You deserve it, you are amazing.
         </p>
         <div className='w-full flex items-center justify-center'>
           <img src='https://i.redd.it/8ujgm2pbwr241.gif' />
